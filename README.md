@@ -6,7 +6,7 @@
 
 🧑‍💻 **About Me**
 
-I'm a Computer Science student at **Haris & Co Academy, Kozhikode** (University of Calicut), passionate about crafting innovative web applications and solving real-world coding challenges.
+I'm a Computer Science student at **Haris & Co Academy, Kozhikode**, passionate about crafting innovative web applications and solving real-world coding challenges.
 With hands-on experience in **Python**, **Javascript**, **HTML**, and **React**, I specialize in full-stack development and love contributing to open-source projects—especially building bots and intelligent tools using Python.
 
 ---
