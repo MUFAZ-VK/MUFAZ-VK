@@ -34,8 +34,11 @@ With hands-on experience in **Python**, **Javascript**, **HTML**, and **React**,
 📫 **Let’s Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mufazvk)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mufaz-vk)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/realmufaz)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_MUFAZZ)
 
 💬 *"Always eager to learn, collaborate, and grow in the tech space."*
