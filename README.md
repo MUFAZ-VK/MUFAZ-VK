@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Mufaz
+## 👋 Hi there, I'm MUFAZ
 
 🎓 CS Student | 💻 Full Stack Developer | 🤖 Tech Enthusiast | 🧠 Problem Solver
 
