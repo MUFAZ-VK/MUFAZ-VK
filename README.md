@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm MUFAZ
 
-🎓 CS Student | 💻 Full Stack Developer | 🤖 Tech Enthusiast | 🧠 Problem Solver
+🎓 CS Student | 💻 Full Stack Developer | AI Engineer | 🤖 Tech Enthusiast | 🧠 Problem Solver
 
 ---
 
