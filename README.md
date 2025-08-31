@@ -14,11 +14,11 @@ With hands-on experience in **Python**, **Javascript**, **HTML**, and **React**,
 🔧 **Tech Stack**
 
 - 💻 Languages: Python, JavaScript, TypeScript, HTML, CSS
-- 🌐 Frontend: ReactJs
-- 🔙 Backend: FastAPI, PHP
-- 🗃️ Database: PostgreSQL, MongoDB, Firebase, Supabase
-- 📦 Tools: Git, VS Code, Pyrogram, Trae, Google Gemini
-- 🧠 Skills: Full Stack Development, Debugging, Problem Solving, Data Structures
+- 🌐 Frontend: ReactJs,ReduxJs
+- 🔙 Backend: FastAPI, PHP, DJango,Flask
+- 🗃️ Database: SQL, MongoDB, Firebase, Supabase
+- 📦 Tools: Git, VS Code, Pyrogram, Trae, Google Gemini, Open AI, Cursor
+- 🧠 Skills: AI Engineering, Full Stack Development, Debugging, Problem Solving
 
 ---
 
